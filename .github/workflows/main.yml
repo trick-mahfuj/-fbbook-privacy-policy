@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy for Fbbook App</h1>
+  <p>At Fbbook, we take your privacy seriously. This app does not store, share, or misuse your personal data. We only use your Facebook access token to perform the tasks that you allow — such as liking posts, following pages, or auto-reacting — and never store this token on any server.</p>
+  <h2>What data do we collect?</h2>
+  <ul>
+    <li>Only your Facebook user ID (locally, never uploaded)</li>
+    <li>Access Token (temporarily, for the session)</li>
+  </ul>
+  <h2>How do we use your data?</h2>
+  <ul>
+    <li>To perform the Facebook actions you requested</li>
+    <li>We do not sell or share your data with third parties</li>
+  </ul>
+  <h2>Security:</h2>
+  <ul>
+    <li>All access is encrypted and stays within your device</li>
+    <li>We never ask for passwords</li>
+  </ul>
+  <p>If you have questions, you can contact us at: [your email here]</p>
+</body>
+</html>
